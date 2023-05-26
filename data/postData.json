@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Savoring the Flavors of French Cuisine",
+    "image_url": "https://i.postimg.cc/bYFHsZ3v/dq-AMn-Eh7-Nhs.jpg",
+    "date": "2023-05-03",
+    "like_count": 18,
+    "comment_count": 5
+  },
+  {
+    "title": "Introducing Our New Signature Burger",
+    "image_url": "https://i.postimg.cc/6QyGscxL/EM9q-V71-Uc-AAzl-Sc.jpg",
+    "date": "2023-05-01",
+    "like_count": 12,
+    "comment_count": 3
+  },
+  {
+    "title": "Join Us for Delicious Food",
+    "image_url": "https://i.postimg.cc/0y3ySqhD/Food-Authenticity.jpg",
+    "date": "2023-05-10",
+    "like_count": 27,
+    "comment_count": 8
+  },
+  {
+    "title": "50 Years of Serving Authentic Cuisine",
+    "image_url": "https://i.postimg.cc/CLRyqf0r/abf6d1d613d5aa65379a12fcc2088b1e.jpg",
+    "date": "2023-05-05",
+    "like_count": 34,
+    "comment_count": 12
+  }
+]
